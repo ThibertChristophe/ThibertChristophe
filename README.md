@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently using **Spring & Angular for my own**
 - 👨‍💻 I work with **.NET & Flutter**
-- ⚡ Fun fact **I love programming**
+- ⚡ Fun fact **Nvim > all**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
