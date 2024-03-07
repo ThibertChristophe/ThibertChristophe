@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Belgium :belgium: </h3>
 
 - 🔭 I’m currently using **Spring & Angular for my own**
-- 👨‍💻 I work with **.NET & Flutter**
+- 👨‍💻 I work with **.NET & Flutter** and some little **Ruby on Rails**
 - ⚡ Fun fact **Nvim > all**
 
 <h3 align="left">Connect with me:</h3>
