@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christophe</h1>
 <h3 align="center">A passionate Software Engineer from Belgium :belgium: </h3>
 
-- 🔭 I’m currently using **Spring <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="10" height="10"/> & Angular for my own**
+- 🔭 I’m currently using **Spring <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="15" height="15"/> & Angular for my own**
 - 👨‍💻 I work with **.NET & Flutter**
 - ⚡ Fun fact **Nvim > all**
 
