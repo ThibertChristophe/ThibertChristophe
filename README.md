@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Christophe</h1>
-<h3 align="center">A passionate frontend developer from Belgium</h3>
+<h3 align="center">A passionate Software Engineer from Belgium </h3>
 
 - 🔭 I’m currently using **Spring & Angular for my own**
 - 👨‍💻 I work with **.NET & Flutter**
