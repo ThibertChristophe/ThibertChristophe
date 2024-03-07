@@ -3,6 +3,10 @@
 <h1 align="center">Hi 👋, I'm Christophe</h1>
 <h3 align="center">A passionate frontend developer from Belgium</h3>
 
+- 🔭 I’m currently using **Spring & Angular for my own**
+- 👨‍💻 I work with **.NET & Flutter**
+- ⚡ Fun fact **I love programming**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/christophethibert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christophethibert" height="30" width="30" /></a>
