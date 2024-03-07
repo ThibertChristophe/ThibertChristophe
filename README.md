@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently using **<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="12" height="12"/> Spring & <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="14" height="14"/> Angular for my own**
 - 👨‍💻 I work with **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="dotnet" width="14" height="14"/> .NET & <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="12" height="12"/> Flutter**
-- 🔓 Also a **Junior Penetration Tester** (eJPTv2)
+- 🔓 Also a **Junior Penetration Tester** (eJPTv2) for fun
 - ⚡ Fun fact **Nvim > all**
 
 ## <h3 align="left">🔗 Connect with me:</h3>
