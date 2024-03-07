@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/christophethibert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christophethibert" height="30" width="30" /></a>
 </p>
 
-<h3 align="left">🔧 Languages and Tools:</h3>
+<h3 align="left">🔧 #### Languages and Tools:</h3>
 <p align="left">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
