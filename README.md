@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christophe</h1>
 <h3 align="center">A passionate Software Engineer from Belgium :belgium: </h3>
 
-- 🔭 I’m currently using **<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="12" height="12"/> Spring & <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="12" height="12"/> Angular for my own**
+- 🔭 I’m currently using **<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="12" height="12"/> Spring & <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="14" height="14"/> Angular for my own**
 - 👨‍💻 I work with **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="12" height="12"/> .NET & <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="12" height="12"/> Flutter**
 - ⚡ Fun fact **Nvim > all**
 
