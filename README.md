@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christophe </h1>
 <h3 align="center">A passionate Software Engineer from Belgium :belgium: </h3>
 
-- 🔭 I’m currently using **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="dotnet" width="14" height="14"/> .NET & <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="14" height="14"/> Angular & <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="12" height="12"/> Rails for my own**
+- 🔭 I’m currently using **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="dotnet" width="14" height="14"/> .NET & <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="14" height="14"/> Angular & <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="12" height="12"/> Ruby on Rails** for my own
 - 👨‍💻 I work with **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="dotnet" width="14" height="14"/> .NET & <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="12" height="12"/> Flutter**
 - 🔓 Also a **Junior Penetration Tester** ([eJPTv2 certified](https://certs.ine.com/af81be7f-2fe5-479e-a0ba-b90c8fa14c41)) for my cyber security expertise
 - ⚡ Fun fact **Nvim > all**
