@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christophe </h1>
 <h3 align="center">A passionate Software Engineer from Belgium :belgium: </h3>
 
-- 🔭 I’m currently using **<img src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png" alt="rails" width="14" height="14"/> Ruby on Rails & ⚡ Hotwire** for my own
+- 🔭 I’m currently using **<img src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png" alt="rails" width="14" height="14"/> Ruby on Rails & <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="nextjs" width="16" height="16"/> NextJs** for my own
 - 👨‍💻 I work with **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="dotnet" width="14" height="14"/> .NET & <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="14" height="14"/> React**
 - 🔓 Also a **Junior Penetration Tester** ([eJPTv2 certified](https://certs.ine.com/af81be7f-2fe5-479e-a0ba-b90c8fa14c41)) for my cyber security expertise
 - ⚡ Fun fact **Nvim > all**
@@ -16,6 +16,7 @@
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="nextjs" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
